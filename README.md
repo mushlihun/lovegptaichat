@@ -99,12 +99,12 @@ Before you start, make sure you have installed [Docker](https://www.docker.com/g
 ### Running the Docker
 Pull the Docker image from Docker Hub:
 ```
-docker pull ramonvc/freegpt-webui
+docker pull mushlihun/lovegptaichat
 ```
 
 Run the application using Docker:
 ```
-docker run -p 1338:1338 ramonvc/freegpt-webui
+docker run -p 1338:1338 mushlihun/lovegptaichat
 ```
 
 Access the application in your browser using the URL:
